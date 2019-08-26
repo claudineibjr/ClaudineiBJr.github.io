@@ -1,0 +1,13 @@
+body {
+    font-family: Ubuntu;
+    padding: 15;
+    background-color: #EEEEEE;
+}
+
+.todo{
+    padding-top: 75px;
+    font-size: 24;
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+}
