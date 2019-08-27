@@ -117,9 +117,13 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 11rem;
-    max-height: 11rem;
+    max-width: 10rem;
+    max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  .nav-link{
+    padding-top: 0.35rem !important;
+    padding-bottom: 0.35rem !important;
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
