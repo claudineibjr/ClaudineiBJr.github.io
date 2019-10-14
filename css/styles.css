@@ -11,3 +11,8 @@ body {
     justify-content: center;
     text-align: center;
 }
+
+.icon-typescript:before {
+    content: "\e902";
+    color: #007acc;
+}
