@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3XJ85V59QK.br.com.monitoratec.newExpenses",
+                "paths": [ "invite/*", "email-confirmation/*" ]
+            }
+        ]
+    }
+}
