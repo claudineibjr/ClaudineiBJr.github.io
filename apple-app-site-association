@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "656R2BM97H.br.com.argoit.usemonera",
-                "paths": [ "invite/*", "email-confirmation/*", "forgot-password/*" ]
+                "appID": "3XJ85V59QK.br.com.monitoratec.newExpenses",
+                "paths": [ "invite/*", "email-confirmation/*" ]
             }
         ]
     }
